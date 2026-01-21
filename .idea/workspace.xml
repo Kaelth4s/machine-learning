@@ -1,25 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c5ff245-32c6-41bb-be02-9226c27978f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/machine-learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/lab1.py" afterDir="false" />
+    <list default="true" id="9c5ff245-32c6-41bb-be02-9226c27978f1" name="Changes" comment="docs: add output for lab1">
+      <change afterPath="$PROJECT_DIR$/lab2/Video_Games_Sales_as_at_22_Dec_2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2_output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pogoda.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/tips.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1_output.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kaelth4s&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kaelth4s/machine-learning.git&quot;,
+    &quot;accountId&quot;: &quot;6613d9b6-4496-43d0-9bd9-bbd1787abf02&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="38CzxFVmJtlq7jP5B3hQD4sHJ0p" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,11 +59,16 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kaelth4s/Projects/IKBFU/machine-learning",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kaelth4s\Drafts\IKBFU\machine-learning\lab2" />
+      <recent name="C:\Users\kaelth4s\Drafts\IKBFU\machine-learning\lab1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kaelth4s\Drafts\IKBFU\machine-learning\lab1" />
     </key>
@@ -63,12 +88,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768318585501</updated>
-      <workItem from="1768318586519" duration="9206000" />
+      <workItem from="1768318586519" duration="10898000" />
+      <workItem from="1768418247101" duration="10000" />
+      <workItem from="1769010982227" duration="5608000" />
+      <workItem from="1769018451937" duration="25000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: create project, add lab1 solution">
+      <option name="closed" value="true" />
+      <created>1768328069996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768328069996</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: add output for lab1">
+      <option name="closed" value="true" />
+      <created>1768328194498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768328194498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: create project, add lab1 solution" />
+    <MESSAGE value="docs: add output for lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: add output for lab1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machine_learning$lab_1.coverage" NAME="lab-1 Coverage Results" MODIFIED="1768327325389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
